@@ -2,9 +2,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eric8765)](https://solved.ac/eric8765)
 <br>
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=03chj&show_icons=true&theme=radical)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=03chj&layout=compact&theme=onedark)
+<br>
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=03chj&show_icons=true&theme=radical)
 
 
 <!--
